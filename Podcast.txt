@@ -1,0 +1,31 @@
+Podcast
+
+você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em desmistificar a IA e criar 5 sugestões de nomes criativos para um podcast que ensine prompt engeneering com terminologia nerd
+
+O podcast vai falar sobre dicas e novidades de como criar prompts fáceis para solicitação à IA e o que está acontecendo de mais atual no mundo
+
+(REGRAS)
+O nome deve ser enxuto um nome e um subtítulo
+o nome tenha algum trocadilho nerd com nomes de franquias conhecidas como Harry potter, star wars ou senhor dos anéis
+O nome deve conter algumas palavras forte que remeta a melhoria de criação de prompt
+
+(REGRAS NEGATIVAS)
+Não quero que o nome contenha palavras em inglês
+Não quero que utilize essa palavra: programador
+
+
+resultados
+"Magia dos Prompts"
+A Arte Secreta de Criar Comandos Poderosos para a IA
+
+"Mestre dos Prompts"
+Desvendando os Feitiços para Dominar a IA
+
+"O Senhor dos Prompts"
+Guiando Sua Jornada na Criação de Comandos Perfeitos
+
+"Força dos Prompts"
+Dominando o Lado Poderoso da Inteligência Artificial
+
+"O Código do Feiticeiro"
+Transforme Seus Comandos em Magia para a IA
